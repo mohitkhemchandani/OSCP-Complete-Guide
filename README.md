@@ -90,6 +90,11 @@ Practise Lab online & offline --- Most of this lab help you to understand differ
 
 > https://github.com/rapid7/metasploitable3/wiki
 
+#OSCP 
+Notes from OSCP training
+ 
+#### Remote Administration
+#####Other
 
 http://pastebin.com/5UTLqwa0
 
