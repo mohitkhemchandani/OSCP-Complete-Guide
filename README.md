@@ -94,8 +94,7 @@ Practise Lab online & offline --- Most of this lab help you to understand differ
 Notes from OSCP training
  
 #### Remote Administration
-#####Other
-
+#Other
 http://pastebin.com/5UTLqwa0
 
 https://jivoi.github.io/2015/06/19/oscp-prepare/
