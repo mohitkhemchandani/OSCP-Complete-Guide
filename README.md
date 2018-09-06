@@ -14,9 +14,13 @@ Below are 5 skills which you have to improve before registering for OSCP
 
 Below are the free reference before registration of OSCP 
 > https://www.cybrary.it/course/ethical-hacking/
+
 > https://www.cybrary.it/course/web-application-pen-testing/
+
 > https://www.cybrary.it/course/advanced-penetration-testing/
+
 > https://www.offensive-security.com/metasploit-unleashed/
+
 > https://www.cybrary.it/course/python/
 
 Below are the reference for Buffer overflow and exploit developmet for OSCP
@@ -29,7 +33,9 @@ For Bash Scripting
 
 Transferring Files from Linux to Windows & post-exploitation
 > https://blog.ropnop.com/transferring-files-from-kali-to-windows/
+
 >https://awakened1712.github.io/oscp/oscp-transfer-files/
+
 >https://infosecaddicts.com/transfer-files-linux-windows/
 
 > https://www.cybrary.it/course/post-exploitation-hacking/
@@ -55,21 +61,33 @@ Privilege Escalation:
 
 Port redirection/tunneling
 >https://medium.com/@itseranga/ssh-port-forwarding-357f02d75d
+
 >https://xapax.gitbooks.io/security/content/port_forwarding_and_tunneling.html
 
 
 Practise Lab online & offline --- Most of this lab help you to understand different attack and (privilege escaltion very very important for OSCP )
 > http://overthewire.org/wargames/bandit/
+
 > https://www.explainshell.com/
+
 > https://www.vulnhub.com/?q=kioptrix&sort=date-asc&type=vm
+
 > https://www.vulnhub.com/entry/fristileaks-13,133/
+
 > https://www.vulnhub.com/entry/brainpan-1,51/ (Buffer overflow vm)
+
 > https://www.vulnhub.com/entry/mr-robot-1,151/
+
 > https://www.vulnhub.com/entry/hacklab-vulnix,48/
+
 > https://www.vulnhub.com/entry/vulnos-2,147/
+
 > https://www.vulnhub.com/entry/sickos-12,144/
+
 > https://www.vulnhub.com/entry/devrandom-scream,47/
+
 > https://www.vulnhub.com/entry/skytower-1,96/
+
 > https://github.com/rapid7/metasploitable3/wiki
 
 
