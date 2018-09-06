@@ -36,13 +36,21 @@ Transferring Files from Linux to Windows & post-exploitation
 
 Privilege Escalation:
 > http://www.greyhathacker.net/?p=738
+
 > http://www.fuzzysecurity.com/tutorials/16.html
+
 > https://github.com/GDSSecurity/Windows-Exploit-Suggester
+
 > http://pwnwiki.io/#!privesc/windows/index.md
+
 > https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
 > https://payatu.com/guide-linux-privilege-escalation/
+
 > https://github.com/rebootuser/LinEnum
+
 > https://www.youtube.com/watch?v=PC_iMqiuIRQ
+
 > https://www.adampalmer.me/iodigitalsec/2013/08/13/mysql-root-to-system-root-with-udf-for-windows-and-linux/
 
 Port redirection/tunneling
