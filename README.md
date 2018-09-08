@@ -98,3 +98,18 @@ Notes from OSCP training
 http://pastebin.com/5UTLqwa0
 
 https://jivoi.github.io/2015/06/19/oscp-prepare/
+
+OSCP-cheat-sheet
+https://github.com/mikaelkall/OSCP-cheat-sheet
+
+oscp-tools
+https://github.com/cokebottle/oscp-tools
+
+helpful notes, some tips and tricks for oscp exam
+https://github.com/kyawthiha7/oscp_notes
+
+oscp5
+https://github.com/sojamo/oscp5
+
+OSCP-Prep
+https://github.com/slyth11907/Cheatsheets
